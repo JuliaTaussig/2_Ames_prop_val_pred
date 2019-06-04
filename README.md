@@ -20,8 +20,7 @@ One feature was created through addition of four other features (a feature inter
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-|Total bathrooms|*float*|Created from Ames, Iowa housing dataset|Basement Full Baths + Basement ½ Baths + 
-Above Grade Full Baths + Above Grade ½ Baths|
+|Total bathrooms|*float*|Created from Ames, Iowa housing dataset|Basement Full Baths + Basement ½ Baths + Above Grade Full Baths + Above Grade ½ Baths|
 
 ### Repository Structure
 
