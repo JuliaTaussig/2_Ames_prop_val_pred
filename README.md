@@ -1,3 +1,5 @@
+## Project 2: Predicting Housing Values Using Dr. De Cock's Ames Iowa Housing Dataset
+
 ### Background Information: 
 Dean De Cock (a professor at Truman State University) compiled the "Ames Iowa: Alternative to the Boston Housing Data Set."  He found this data from the Ames Assessor’s Office (used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010), and he used the project for a semester project for an undergraduate course in regression.  According to Dr. De Cock, the original data is used for tax assessment purposes but can also be used to predict home selling prices because the type of information contained in the data is similar to what a typical home buyer would want to know before making a purchase.
 
